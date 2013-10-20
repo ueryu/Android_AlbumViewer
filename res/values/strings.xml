@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AlbumViewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_agent">album viewer</string>
+    <string name="title_activity_album_selector">AlbumSelectorActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="authorizeDialogTitle">Authorization Required</string>
+    <string name="id">ID:</string>
+    <string name="password">Password:</string>
+
+</resources>

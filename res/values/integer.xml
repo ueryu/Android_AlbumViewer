@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="max_image_cache_mb" type="integer">10</item>
+    <item name="offscreen_page_limit" type="integer">3</item>
+
+</resources>

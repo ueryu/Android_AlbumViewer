@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="cached_image_loader" type="id"/>
+    <item name="image_loader" type="id"/>
+    <item name="album_repository_loader" type="id"/>
+    <item name="request_album_repository_selector" type="id"/>
+    <item name="downloader" type="id"/>
+    <item name="result_ok" type="id"/>
+    <item name="result_cancel" type="id"/>
+    <item name="authorization_required" type="id"/>
+
+</resources>
