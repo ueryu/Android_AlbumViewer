@@ -1,4 +1,4 @@
-Android_BlownLibrary
-====================
+Android_AlbumViewer
+===================
 
-Common Library for Android
+AlbumViewer for Android
