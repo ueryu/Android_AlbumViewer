@@ -1,5 +1,5 @@
 # built application files
-*.apk
+#*.apk : リリース管理の為にコミットしておく.
 *.ap_
 
 # files for the dex VM
